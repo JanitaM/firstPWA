@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/firstPWA/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/firstPWA/static/js/main.3a5fab80.chunk.js",
+    "main.js.map": "/firstPWA/static/js/main.3a5fab80.chunk.js.map",
+    "runtime-main.js": "/firstPWA/static/js/runtime-main.f7b60775.js",
+    "runtime-main.js.map": "/firstPWA/static/js/runtime-main.f7b60775.js.map",
+    "static/js/2.5edd1c17.chunk.js": "/firstPWA/static/js/2.5edd1c17.chunk.js",
+    "static/js/2.5edd1c17.chunk.js.map": "/firstPWA/static/js/2.5edd1c17.chunk.js.map",
+    "static/js/3.88a4559e.chunk.js": "/firstPWA/static/js/3.88a4559e.chunk.js",
+    "static/js/3.88a4559e.chunk.js.map": "/firstPWA/static/js/3.88a4559e.chunk.js.map",
+    "index.html": "/firstPWA/index.html",
+    "service-worker.js": "/firstPWA/service-worker.js",
+    "service-worker.js.map": "/firstPWA/service-worker.js.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/firstPWA/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.5edd1c17.chunk.js.LICENSE.txt": "/firstPWA/static/js/2.5edd1c17.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f7b60775.js",
+    "static/js/2.5edd1c17.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.3a5fab80.chunk.js"
+  ]
+}
